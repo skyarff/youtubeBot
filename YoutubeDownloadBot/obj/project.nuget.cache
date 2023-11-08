@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "XvlIj2KJxA725uVHs4o59yZz4jXyGhm9GXJBilRcy/+ssei/aBeiEQi9C8rThNHQzsmdCwzZUE2TpZ8sx2bNuQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\bffus\\OneDrive\\Рабочий стол\\МОЯП\\YoutubeDownloadBot - LV\\YoutubeDownloadBot\\YoutubeDownloadBot.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\bffus\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\bffus\\.nuget\\packages\\telegram.bot\\19.0.0\\telegram.bot.19.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

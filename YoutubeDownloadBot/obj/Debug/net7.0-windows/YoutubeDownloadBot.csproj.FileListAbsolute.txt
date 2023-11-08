@@ -1,0 +1,120 @@
+D:\сишарп\YoutubeDownloadBot\TrueSkyarff\bin\Debug\net7.0-windows\YoutubeDownloadBot.exe
+D:\сишарп\YoutubeDownloadBot\TrueSkyarff\bin\Debug\net7.0-windows\YoutubeDownloadBot.deps.json
+D:\сишарп\YoutubeDownloadBot\TrueSkyarff\bin\Debug\net7.0-windows\YoutubeDownloadBot.runtimeconfig.json
+D:\сишарп\YoutubeDownloadBot\TrueSkyarff\bin\Debug\net7.0-windows\YoutubeDownloadBot.dll
+D:\сишарп\YoutubeDownloadBot\TrueSkyarff\bin\Debug\net7.0-windows\YoutubeDownloadBot.pdb
+D:\сишарп\YoutubeDownloadBot\TrueSkyarff\bin\Debug\net7.0-windows\Newtonsoft.Json.dll
+D:\сишарп\YoutubeDownloadBot\TrueSkyarff\bin\Debug\net7.0-windows\Telegram.Bot.dll
+D:\сишарп\YoutubeDownloadBot\TrueSkyarff\obj\Debug\net7.0-windows\YoutubeDownloadBot.csproj.AssemblyReference.cache
+D:\сишарп\YoutubeDownloadBot\TrueSkyarff\obj\Debug\net7.0-windows\TrueSkyarff.Form1.resources
+D:\сишарп\YoutubeDownloadBot\TrueSkyarff\obj\Debug\net7.0-windows\YoutubeDownloadBot.csproj.GenerateResource.cache
+D:\сишарп\YoutubeDownloadBot\TrueSkyarff\obj\Debug\net7.0-windows\YoutubeDownloadBot.GeneratedMSBuildEditorConfig.editorconfig
+D:\сишарп\YoutubeDownloadBot\TrueSkyarff\obj\Debug\net7.0-windows\YoutubeDownloadBot.AssemblyInfoInputs.cache
+D:\сишарп\YoutubeDownloadBot\TrueSkyarff\obj\Debug\net7.0-windows\YoutubeDownloadBot.AssemblyInfo.cs
+D:\сишарп\YoutubeDownloadBot\TrueSkyarff\obj\Debug\net7.0-windows\YoutubeDownloadBot.csproj.CoreCompileInputs.cache
+D:\сишарп\YoutubeDownloadBot\TrueSkyarff\obj\Debug\net7.0-windows\YoutubeDownloadBot.csproj.CopyComplete
+D:\сишарп\YoutubeDownloadBot\TrueSkyarff\obj\Debug\net7.0-windows\YoutubeDownloadBot.dll
+D:\сишарп\YoutubeDownloadBot\TrueSkyarff\obj\Debug\net7.0-windows\refint\YoutubeDownloadBot.dll
+D:\сишарп\YoutubeDownloadBot\TrueSkyarff\obj\Debug\net7.0-windows\YoutubeDownloadBot.pdb
+D:\сишарп\YoutubeDownloadBot\TrueSkyarff\obj\Debug\net7.0-windows\YoutubeDownloadBot.genruntimeconfig.cache
+D:\сишарп\YoutubeDownloadBot\TrueSkyarff\obj\Debug\net7.0-windows\ref\YoutubeDownloadBot.dll
+D:\сишарп\YoutubeDownloadBot\YoutubeDownloadBot\bin\Debug\net7.0-windows\YoutubeDownloadBot.exe
+D:\сишарп\YoutubeDownloadBot\YoutubeDownloadBot\bin\Debug\net7.0-windows\YoutubeDownloadBot.deps.json
+D:\сишарп\YoutubeDownloadBot\YoutubeDownloadBot\bin\Debug\net7.0-windows\YoutubeDownloadBot.runtimeconfig.json
+D:\сишарп\YoutubeDownloadBot\YoutubeDownloadBot\bin\Debug\net7.0-windows\YoutubeDownloadBot.dll
+D:\сишарп\YoutubeDownloadBot\YoutubeDownloadBot\bin\Debug\net7.0-windows\YoutubeDownloadBot.pdb
+D:\сишарп\YoutubeDownloadBot\YoutubeDownloadBot\bin\Debug\net7.0-windows\Newtonsoft.Json.dll
+D:\сишарп\YoutubeDownloadBot\YoutubeDownloadBot\bin\Debug\net7.0-windows\Telegram.Bot.dll
+D:\сишарп\YoutubeDownloadBot\YoutubeDownloadBot\obj\Debug\net7.0-windows\YoutubeDownloadBot.csproj.AssemblyReference.cache
+D:\сишарп\YoutubeDownloadBot\YoutubeDownloadBot\obj\Debug\net7.0-windows\TrueSkyarff.Form1.resources
+D:\сишарп\YoutubeDownloadBot\YoutubeDownloadBot\obj\Debug\net7.0-windows\YoutubeDownloadBot.csproj.GenerateResource.cache
+D:\сишарп\YoutubeDownloadBot\YoutubeDownloadBot\obj\Debug\net7.0-windows\YoutubeDownloadBot.GeneratedMSBuildEditorConfig.editorconfig
+D:\сишарп\YoutubeDownloadBot\YoutubeDownloadBot\obj\Debug\net7.0-windows\YoutubeDownloadBot.AssemblyInfoInputs.cache
+D:\сишарп\YoutubeDownloadBot\YoutubeDownloadBot\obj\Debug\net7.0-windows\YoutubeDownloadBot.AssemblyInfo.cs
+D:\сишарп\YoutubeDownloadBot\YoutubeDownloadBot\obj\Debug\net7.0-windows\YoutubeDownloadBot.csproj.CoreCompileInputs.cache
+D:\сишарп\YoutubeDownloadBot\YoutubeDownloadBot\obj\Debug\net7.0-windows\YoutubeDownloadBot.csproj.CopyComplete
+D:\сишарп\YoutubeDownloadBot\YoutubeDownloadBot\obj\Debug\net7.0-windows\YoutubeDownloadBot.dll
+D:\сишарп\YoutubeDownloadBot\YoutubeDownloadBot\obj\Debug\net7.0-windows\refint\YoutubeDownloadBot.dll
+D:\сишарп\YoutubeDownloadBot\YoutubeDownloadBot\obj\Debug\net7.0-windows\YoutubeDownloadBot.pdb
+D:\сишарп\YoutubeDownloadBot\YoutubeDownloadBot\obj\Debug\net7.0-windows\YoutubeDownloadBot.genruntimeconfig.cache
+D:\сишарп\YoutubeDownloadBot\YoutubeDownloadBot\obj\Debug\net7.0-windows\ref\YoutubeDownloadBot.dll
+C:\Users\bffus\OneDrive\Рабочий стол\YoutubeDownloadBot\YoutubeDownloadBot\bin\Debug\net7.0-windows\YoutubeDownloadBot.exe
+C:\Users\bffus\OneDrive\Рабочий стол\YoutubeDownloadBot\YoutubeDownloadBot\bin\Debug\net7.0-windows\YoutubeDownloadBot.deps.json
+C:\Users\bffus\OneDrive\Рабочий стол\YoutubeDownloadBot\YoutubeDownloadBot\bin\Debug\net7.0-windows\YoutubeDownloadBot.runtimeconfig.json
+C:\Users\bffus\OneDrive\Рабочий стол\YoutubeDownloadBot\YoutubeDownloadBot\bin\Debug\net7.0-windows\YoutubeDownloadBot.dll
+C:\Users\bffus\OneDrive\Рабочий стол\YoutubeDownloadBot\YoutubeDownloadBot\bin\Debug\net7.0-windows\YoutubeDownloadBot.pdb
+C:\Users\bffus\OneDrive\Рабочий стол\YoutubeDownloadBot\YoutubeDownloadBot\bin\Debug\net7.0-windows\Newtonsoft.Json.dll
+C:\Users\bffus\OneDrive\Рабочий стол\YoutubeDownloadBot\YoutubeDownloadBot\bin\Debug\net7.0-windows\Telegram.Bot.dll
+C:\Users\bffus\OneDrive\Рабочий стол\YoutubeDownloadBot\YoutubeDownloadBot\obj\Debug\net7.0-windows\YoutubeDownloadBot.csproj.AssemblyReference.cache
+C:\Users\bffus\OneDrive\Рабочий стол\YoutubeDownloadBot\YoutubeDownloadBot\obj\Debug\net7.0-windows\TrueSkyarff.Form1.resources
+C:\Users\bffus\OneDrive\Рабочий стол\YoutubeDownloadBot\YoutubeDownloadBot\obj\Debug\net7.0-windows\YoutubeDownloadBot.csproj.GenerateResource.cache
+C:\Users\bffus\OneDrive\Рабочий стол\YoutubeDownloadBot\YoutubeDownloadBot\obj\Debug\net7.0-windows\YoutubeDownloadBot.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bffus\OneDrive\Рабочий стол\YoutubeDownloadBot\YoutubeDownloadBot\obj\Debug\net7.0-windows\YoutubeDownloadBot.AssemblyInfoInputs.cache
+C:\Users\bffus\OneDrive\Рабочий стол\YoutubeDownloadBot\YoutubeDownloadBot\obj\Debug\net7.0-windows\YoutubeDownloadBot.AssemblyInfo.cs
+C:\Users\bffus\OneDrive\Рабочий стол\YoutubeDownloadBot\YoutubeDownloadBot\obj\Debug\net7.0-windows\YoutubeDownloadBot.csproj.CoreCompileInputs.cache
+C:\Users\bffus\OneDrive\Рабочий стол\YoutubeDownloadBot\YoutubeDownloadBot\obj\Debug\net7.0-windows\YoutubeDownloadBot.csproj.CopyComplete
+C:\Users\bffus\OneDrive\Рабочий стол\YoutubeDownloadBot\YoutubeDownloadBot\obj\Debug\net7.0-windows\YoutubeDownloadBot.dll
+C:\Users\bffus\OneDrive\Рабочий стол\YoutubeDownloadBot\YoutubeDownloadBot\obj\Debug\net7.0-windows\refint\YoutubeDownloadBot.dll
+C:\Users\bffus\OneDrive\Рабочий стол\YoutubeDownloadBot\YoutubeDownloadBot\obj\Debug\net7.0-windows\YoutubeDownloadBot.pdb
+C:\Users\bffus\OneDrive\Рабочий стол\YoutubeDownloadBot\YoutubeDownloadBot\obj\Debug\net7.0-windows\YoutubeDownloadBot.genruntimeconfig.cache
+C:\Users\bffus\OneDrive\Рабочий стол\YoutubeDownloadBot\YoutubeDownloadBot\obj\Debug\net7.0-windows\ref\YoutubeDownloadBot.dll
+C:\Users\bffus\OneDrive\Рабочий стол\YoutubeDownloadBot — копия (3)\YoutubeDownloadBot\bin\Debug\net7.0-windows\YoutubeDownloadBot.exe
+C:\Users\bffus\OneDrive\Рабочий стол\YoutubeDownloadBot — копия (3)\YoutubeDownloadBot\bin\Debug\net7.0-windows\YoutubeDownloadBot.deps.json
+C:\Users\bffus\OneDrive\Рабочий стол\YoutubeDownloadBot — копия (3)\YoutubeDownloadBot\bin\Debug\net7.0-windows\YoutubeDownloadBot.runtimeconfig.json
+C:\Users\bffus\OneDrive\Рабочий стол\YoutubeDownloadBot — копия (3)\YoutubeDownloadBot\bin\Debug\net7.0-windows\YoutubeDownloadBot.dll
+C:\Users\bffus\OneDrive\Рабочий стол\YoutubeDownloadBot — копия (3)\YoutubeDownloadBot\bin\Debug\net7.0-windows\YoutubeDownloadBot.pdb
+C:\Users\bffus\OneDrive\Рабочий стол\YoutubeDownloadBot — копия (3)\YoutubeDownloadBot\bin\Debug\net7.0-windows\Newtonsoft.Json.dll
+C:\Users\bffus\OneDrive\Рабочий стол\YoutubeDownloadBot — копия (3)\YoutubeDownloadBot\bin\Debug\net7.0-windows\Telegram.Bot.dll
+C:\Users\bffus\OneDrive\Рабочий стол\YoutubeDownloadBot — копия (3)\YoutubeDownloadBot\obj\Debug\net7.0-windows\YoutubeDownloadBot.csproj.AssemblyReference.cache
+C:\Users\bffus\OneDrive\Рабочий стол\YoutubeDownloadBot — копия (3)\YoutubeDownloadBot\obj\Debug\net7.0-windows\YoutubeDownloadBot.csproj.GenerateResource.cache
+C:\Users\bffus\OneDrive\Рабочий стол\YoutubeDownloadBot — копия (3)\YoutubeDownloadBot\obj\Debug\net7.0-windows\YoutubeDownloadBot.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bffus\OneDrive\Рабочий стол\YoutubeDownloadBot — копия (3)\YoutubeDownloadBot\obj\Debug\net7.0-windows\YoutubeDownloadBot.AssemblyInfoInputs.cache
+C:\Users\bffus\OneDrive\Рабочий стол\YoutubeDownloadBot — копия (3)\YoutubeDownloadBot\obj\Debug\net7.0-windows\YoutubeDownloadBot.AssemblyInfo.cs
+C:\Users\bffus\OneDrive\Рабочий стол\YoutubeDownloadBot — копия (3)\YoutubeDownloadBot\obj\Debug\net7.0-windows\YoutubeDownloadBot.csproj.CoreCompileInputs.cache
+C:\Users\bffus\OneDrive\Рабочий стол\YoutubeDownloadBot — копия (3)\YoutubeDownloadBot\obj\Debug\net7.0-windows\YoutubeDownloadBot.csproj.CopyComplete
+C:\Users\bffus\OneDrive\Рабочий стол\YoutubeDownloadBot — копия (3)\YoutubeDownloadBot\obj\Debug\net7.0-windows\YoutubeDownloadBot.dll
+C:\Users\bffus\OneDrive\Рабочий стол\YoutubeDownloadBot — копия (3)\YoutubeDownloadBot\obj\Debug\net7.0-windows\refint\YoutubeDownloadBot.dll
+C:\Users\bffus\OneDrive\Рабочий стол\YoutubeDownloadBot — копия (3)\YoutubeDownloadBot\obj\Debug\net7.0-windows\YoutubeDownloadBot.pdb
+C:\Users\bffus\OneDrive\Рабочий стол\YoutubeDownloadBot — копия (3)\YoutubeDownloadBot\obj\Debug\net7.0-windows\YoutubeDownloadBot.genruntimeconfig.cache
+C:\Users\bffus\OneDrive\Рабочий стол\YoutubeDownloadBot — копия (3)\YoutubeDownloadBot\obj\Debug\net7.0-windows\ref\YoutubeDownloadBot.dll
+C:\Users\bffus\OneDrive\Рабочий стол\YoutubeDownloadBot — копия (3)\YoutubeDownloadBot\obj\Debug\net7.0-windows\YoutubeDownloadBot.Form1.resources
+C:\Users\bffus\OneDrive\Рабочий стол\YoutubeDownloadBot - LV\YoutubeDownloadBot\bin\Debug\net7.0-windows\YoutubeDownloadBot.exe
+C:\Users\bffus\OneDrive\Рабочий стол\YoutubeDownloadBot - LV\YoutubeDownloadBot\bin\Debug\net7.0-windows\YoutubeDownloadBot.deps.json
+C:\Users\bffus\OneDrive\Рабочий стол\YoutubeDownloadBot - LV\YoutubeDownloadBot\bin\Debug\net7.0-windows\YoutubeDownloadBot.runtimeconfig.json
+C:\Users\bffus\OneDrive\Рабочий стол\YoutubeDownloadBot - LV\YoutubeDownloadBot\bin\Debug\net7.0-windows\YoutubeDownloadBot.dll
+C:\Users\bffus\OneDrive\Рабочий стол\YoutubeDownloadBot - LV\YoutubeDownloadBot\bin\Debug\net7.0-windows\YoutubeDownloadBot.pdb
+C:\Users\bffus\OneDrive\Рабочий стол\YoutubeDownloadBot - LV\YoutubeDownloadBot\bin\Debug\net7.0-windows\Newtonsoft.Json.dll
+C:\Users\bffus\OneDrive\Рабочий стол\YoutubeDownloadBot - LV\YoutubeDownloadBot\bin\Debug\net7.0-windows\Telegram.Bot.dll
+C:\Users\bffus\OneDrive\Рабочий стол\YoutubeDownloadBot - LV\YoutubeDownloadBot\obj\Debug\net7.0-windows\YoutubeDownloadBot.csproj.AssemblyReference.cache
+C:\Users\bffus\OneDrive\Рабочий стол\YoutubeDownloadBot - LV\YoutubeDownloadBot\obj\Debug\net7.0-windows\YoutubeDownloadBot.Form1.resources
+C:\Users\bffus\OneDrive\Рабочий стол\YoutubeDownloadBot - LV\YoutubeDownloadBot\obj\Debug\net7.0-windows\YoutubeDownloadBot.csproj.GenerateResource.cache
+C:\Users\bffus\OneDrive\Рабочий стол\YoutubeDownloadBot - LV\YoutubeDownloadBot\obj\Debug\net7.0-windows\YoutubeDownloadBot.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bffus\OneDrive\Рабочий стол\YoutubeDownloadBot - LV\YoutubeDownloadBot\obj\Debug\net7.0-windows\YoutubeDownloadBot.AssemblyInfoInputs.cache
+C:\Users\bffus\OneDrive\Рабочий стол\YoutubeDownloadBot - LV\YoutubeDownloadBot\obj\Debug\net7.0-windows\YoutubeDownloadBot.AssemblyInfo.cs
+C:\Users\bffus\OneDrive\Рабочий стол\YoutubeDownloadBot - LV\YoutubeDownloadBot\obj\Debug\net7.0-windows\YoutubeDownloadBot.csproj.CoreCompileInputs.cache
+C:\Users\bffus\OneDrive\Рабочий стол\YoutubeDownloadBot - LV\YoutubeDownloadBot\obj\Debug\net7.0-windows\YoutubeDownloadBot.csproj.CopyComplete
+C:\Users\bffus\OneDrive\Рабочий стол\YoutubeDownloadBot - LV\YoutubeDownloadBot\obj\Debug\net7.0-windows\YoutubeDownloadBot.dll
+C:\Users\bffus\OneDrive\Рабочий стол\YoutubeDownloadBot - LV\YoutubeDownloadBot\obj\Debug\net7.0-windows\refint\YoutubeDownloadBot.dll
+C:\Users\bffus\OneDrive\Рабочий стол\YoutubeDownloadBot - LV\YoutubeDownloadBot\obj\Debug\net7.0-windows\YoutubeDownloadBot.pdb
+C:\Users\bffus\OneDrive\Рабочий стол\YoutubeDownloadBot - LV\YoutubeDownloadBot\obj\Debug\net7.0-windows\YoutubeDownloadBot.genruntimeconfig.cache
+C:\Users\bffus\OneDrive\Рабочий стол\YoutubeDownloadBot - LV\YoutubeDownloadBot\obj\Debug\net7.0-windows\ref\YoutubeDownloadBot.dll
+C:\Users\bffus\OneDrive\Рабочий стол\YoutubeDownloadBot - LV — копия\YoutubeDownloadBot\bin\Debug\net7.0-windows\YoutubeDownloadBot.exe
+C:\Users\bffus\OneDrive\Рабочий стол\YoutubeDownloadBot - LV — копия\YoutubeDownloadBot\bin\Debug\net7.0-windows\YoutubeDownloadBot.deps.json
+C:\Users\bffus\OneDrive\Рабочий стол\YoutubeDownloadBot - LV — копия\YoutubeDownloadBot\bin\Debug\net7.0-windows\YoutubeDownloadBot.runtimeconfig.json
+C:\Users\bffus\OneDrive\Рабочий стол\YoutubeDownloadBot - LV — копия\YoutubeDownloadBot\bin\Debug\net7.0-windows\YoutubeDownloadBot.dll
+C:\Users\bffus\OneDrive\Рабочий стол\YoutubeDownloadBot - LV — копия\YoutubeDownloadBot\bin\Debug\net7.0-windows\YoutubeDownloadBot.pdb
+C:\Users\bffus\OneDrive\Рабочий стол\YoutubeDownloadBot - LV — копия\YoutubeDownloadBot\bin\Debug\net7.0-windows\Newtonsoft.Json.dll
+C:\Users\bffus\OneDrive\Рабочий стол\YoutubeDownloadBot - LV — копия\YoutubeDownloadBot\bin\Debug\net7.0-windows\Telegram.Bot.dll
+C:\Users\bffus\OneDrive\Рабочий стол\YoutubeDownloadBot - LV — копия\YoutubeDownloadBot\obj\Debug\net7.0-windows\YoutubeDownloadBot.csproj.AssemblyReference.cache
+C:\Users\bffus\OneDrive\Рабочий стол\YoutubeDownloadBot - LV — копия\YoutubeDownloadBot\obj\Debug\net7.0-windows\YoutubeDownloadBot.Form1.resources
+C:\Users\bffus\OneDrive\Рабочий стол\YoutubeDownloadBot - LV — копия\YoutubeDownloadBot\obj\Debug\net7.0-windows\YoutubeDownloadBot.csproj.GenerateResource.cache
+C:\Users\bffus\OneDrive\Рабочий стол\YoutubeDownloadBot - LV — копия\YoutubeDownloadBot\obj\Debug\net7.0-windows\YoutubeDownloadBot.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bffus\OneDrive\Рабочий стол\YoutubeDownloadBot - LV — копия\YoutubeDownloadBot\obj\Debug\net7.0-windows\YoutubeDownloadBot.AssemblyInfoInputs.cache
+C:\Users\bffus\OneDrive\Рабочий стол\YoutubeDownloadBot - LV — копия\YoutubeDownloadBot\obj\Debug\net7.0-windows\YoutubeDownloadBot.AssemblyInfo.cs
+C:\Users\bffus\OneDrive\Рабочий стол\YoutubeDownloadBot - LV — копия\YoutubeDownloadBot\obj\Debug\net7.0-windows\YoutubeDownloadBot.csproj.CoreCompileInputs.cache
+C:\Users\bffus\OneDrive\Рабочий стол\YoutubeDownloadBot - LV — копия\YoutubeDownloadBot\obj\Debug\net7.0-windows\YoutubeDownloadBot.csproj.CopyComplete
+C:\Users\bffus\OneDrive\Рабочий стол\YoutubeDownloadBot - LV — копия\YoutubeDownloadBot\obj\Debug\net7.0-windows\YoutubeDownloadBot.dll
+C:\Users\bffus\OneDrive\Рабочий стол\YoutubeDownloadBot - LV — копия\YoutubeDownloadBot\obj\Debug\net7.0-windows\refint\YoutubeDownloadBot.dll
+C:\Users\bffus\OneDrive\Рабочий стол\YoutubeDownloadBot - LV — копия\YoutubeDownloadBot\obj\Debug\net7.0-windows\YoutubeDownloadBot.pdb
+C:\Users\bffus\OneDrive\Рабочий стол\YoutubeDownloadBot - LV — копия\YoutubeDownloadBot\obj\Debug\net7.0-windows\YoutubeDownloadBot.genruntimeconfig.cache
+C:\Users\bffus\OneDrive\Рабочий стол\YoutubeDownloadBot - LV — копия\YoutubeDownloadBot\obj\Debug\net7.0-windows\ref\YoutubeDownloadBot.dll
